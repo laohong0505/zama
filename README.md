@@ -2,7 +2,7 @@
 setup_project.sh
 #!/bin/bash
 set -e
-
+  
 PROJECT="zama-fhe-dapp"
 
 echo "📦 正在创建项目目录 $PROJECT ..."
